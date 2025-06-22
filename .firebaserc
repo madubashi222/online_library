@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "onlinelibrary-f8ca9"
-  }
+    "default": "onlinelibrary-f8ca9",
+    "staging": "onlinelibrary-f8ca9"
+  },
+  "targets": {},
+  "etags": {}
 }
